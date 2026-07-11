@@ -1,0 +1,58 @@
+name: Sync LeetCode Solutions
+
+on:
+  schedule:
+    # Runs every 30 minutes. Tighten/loosen as you like — LeetCode has no
+    # webhook for submissions, so polling is the only option.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "How many recent accepted submissions to scan"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leetcode-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+        run: |
+          python scripts/sync.py --limit "${{ github.event.inputs.limit || '20' }}"
+
+      - name: Commit and push if changed
+        run: |
+          if [ -f .sync_changed ]; then
+            rm -f .sync_changed
+            git config user.name "leetcode-sync-bot"
+            git config user.email "actions@github.com"
+            git add -A
+            git commit -m "chore: sync LeetCode solutions [automated]"
+            git push
+          else
+            echo "No new accepted submissions — nothing to commit."
+          fi
