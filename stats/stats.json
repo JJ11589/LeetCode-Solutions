@@ -1,0 +1,26 @@
+{
+  "total": 1,
+  "easy": 1,
+  "medium": 0,
+  "hard": 0,
+  "topic_counts": {
+    "Array": 1,
+    "Hash Table": 1
+  },
+  "strong_topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "weak_topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "streak": 1,
+  "weekly_progress": {
+    "2026-W28": 1
+  },
+  "monthly_progress": {
+    "2026-07": 1
+  },
+  "generated_at": "2026-07-11T18:29:44.163069+00:00"
+}

@@ -4,17 +4,73 @@
 
 ### My competitive programming journey, fully automated.
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue?style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Last_Updated-not_synced_yet-lightgrey?style=for-the-badge)
+</div>
+
+
+<div align="center">
+
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-1_days-orange?style=for-the-badge)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Jashn_Jindal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jashn_Jindal/)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--11-lightgrey?style=for-the-badge)
+
 
 </div>
 
-This README is regenerated automatically by `scripts/sync.py` every time the
-GitHub Action runs (see `.github/workflows/sync.yml`). It currently shows
-placeholder content because no sync has run yet.
+## 📊 Statistics
 
-To get real data here:
-1. Follow [`INSTALL.md`](./INSTALL.md) to add your LeetCode credentials as
-   repository secrets.
-2. Either wait for the next scheduled run, or trigger the workflow manually
-   from the **Actions** tab ("Sync LeetCode Solutions" → **Run workflow**).
+- **Total Problems Solved:** 1
+- **Easy:** 1 &nbsp;|&nbsp; **Medium:** 0 &nbsp;|&nbsp; **Hard:** 0
+- **Primary Language:** C++ (others supported per-problem)
+- **Current Streak:** 1 days
+- **Last Updated:** 2026-07-11 18:29 UTC
+
+### Topic Distribution
+
+| Topic | Solved |
+|---|---|
+| Array | 1 |
+| Hash Table | 1 |
+
+### 💪 Strong Topics
+Array, Hash Table
+
+### 🎯 Weak Topics (focus here)
+Array, Hash Table
+
+---
+
+## 🕒 Recent Activity
+
+- **1. [Two Sum](Arrays/0001_Two_Sum/README.md)** (🟢 Easy) — 2026-07-11
+
+---
+
+## 📋 All Solved Problems
+
+> Newest first. Auto-generated — do not edit by hand, edit `scripts/generate_readme.py` instead.
+
+| # | Question | Difficulty | Topic | Language | Date Solved |
+|---|---|---|---|---|---|
+| 1 | [Two Sum](Arrays/0001_Two_Sum/README.md) | 🟢 Easy | Array | C++ | 2026-07-11 |
+
+---
+
+## ⚙️ How this repo works
+
+This repository is synced automatically by a GitHub Action
+(`.github/workflows/sync.yml`) that polls my recently-accepted LeetCode
+submissions, fetches the source code and problem metadata, organizes it by
+topic, regenerates this README and the stats, and commits/pushes the result.
+See [`scripts/`](./scripts) for the implementation and
+[`INSTALL.md`](./INSTALL.md) for setup.
+
+<div align="center">
+
+_Generated automatically — last sync 2026-07-11 18:29 UTC_
+
+</div>
