@@ -1,7 +1,7 @@
 // 1. Two Sum
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/two-sum/
-// Runtime: 35 ms | Memory: 14.1 MB
+// Runtime: 35 ms | Memory: 14 MB
 
 class Solution {
 public:
