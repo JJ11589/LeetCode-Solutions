@@ -16,7 +16,7 @@
 ![Streak](https://img.shields.io/badge/Current_Streak-1_days-orange?style=for-the-badge)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Jashn_Jindal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jashn_Jindal/)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--13-lightgrey?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--14-lightgrey?style=for-the-badge)
 
 
 </div>
@@ -27,7 +27,7 @@
 - **Easy:** 1 &nbsp;|&nbsp; **Medium:** 0 &nbsp;|&nbsp; **Hard:** 0
 - **Primary Language:** C++ (others supported per-problem)
 - **Current Streak:** 1 days
-- **Last Updated:** 2026-07-13 17:55 UTC
+- **Last Updated:** 2026-07-14 17:20 UTC
 
 ### Topic Distribution
 
@@ -46,7 +46,7 @@ Array, Hash Table
 
 ## 🕒 Recent Activity
 
-- **1. [Two Sum](Arrays/0001_Two_Sum/README.md)** (🟢 Easy) — 2026-07-13
+- **1. [Two Sum](Arrays/0001_Two_Sum/README.md)** (🟢 Easy) — 2026-07-14
 
 ---
 
@@ -56,7 +56,7 @@ Array, Hash Table
 
 | # | Question | Difficulty | Topic | Language | Date Solved |
 |---|---|---|---|---|---|
-| 1 | [Two Sum](Arrays/0001_Two_Sum/README.md) | 🟢 Easy | Array | C++ | 2026-07-13 |
+| 1 | [Two Sum](Arrays/0001_Two_Sum/README.md) | 🟢 Easy | Array | C++ | 2026-07-14 |
 
 ---
 
@@ -71,6 +71,6 @@ See [`scripts/`](./scripts) for the implementation and
 
 <div align="center">
 
-_Generated automatically — last sync 2026-07-13 17:55 UTC_
+_Generated automatically — last sync 2026-07-14 17:20 UTC_
 
 </div>

@@ -3,10 +3,10 @@
 🟢 **Difficulty:** Easy
 **Topics:** `Array`, `Hash Table`
 **Language:** C++
-**Date Solved:** 2026-07-13
+**Date Solved:** 2026-07-14
 **Status:** ✅ Accepted
 **Runtime:** 35 ms
-**Memory:** 14.2 MB
+**Memory:** 14 MB
 **Problem Link:** https://leetcode.com/problems/two-sum/
 
 ---
