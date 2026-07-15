@@ -3,9 +3,24 @@
     "2064151712",
     "2065202763",
     "2066442849",
-    "2067609734"
+    "2067609734",
+    "2068967979"
   ],
   "problems": [
+    {
+      "frontend_id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "lang": "C++",
+      "date": "2026-07-15",
+      "timestamp": 1784137438,
+      "path": "Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md"
+    },
     {
       "frontend_id": "1",
       "title": "Two Sum",
