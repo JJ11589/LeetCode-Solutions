@@ -13,10 +13,10 @@
 ![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-2_days-orange?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-1_days-orange?style=for-the-badge)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Jashn_Jindal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jashn_Jindal/)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--15-lightgrey?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--16-lightgrey?style=for-the-badge)
 
 
 </div>
@@ -26,8 +26,8 @@
 - **Total Problems Solved:** 2
 - **Easy:** 2 &nbsp;|&nbsp; **Medium:** 0 &nbsp;|&nbsp; **Hard:** 0
 - **Primary Language:** C++ (others supported per-problem)
-- **Current Streak:** 2 days
-- **Last Updated:** 2026-07-15 17:47 UTC
+- **Current Streak:** 1 days
+- **Last Updated:** 2026-07-16 18:40 UTC
 
 ### Topic Distribution
 
@@ -47,7 +47,7 @@ Dynamic Programming, Hash Table
 
 ## 🕒 Recent Activity
 
-- **121. [Best Time to Buy and Sell Stock](Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md)** (🟢 Easy) — 2026-07-15
+- **121. [Best Time to Buy and Sell Stock](Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md)** (🟢 Easy) — 2026-07-16
 - **1. [Two Sum](Arrays/0001_Two_Sum/README.md)** (🟢 Easy) — 2026-07-14
 
 ---
@@ -58,7 +58,7 @@ Dynamic Programming, Hash Table
 
 | # | Question | Difficulty | Topic | Language | Date Solved |
 |---|---|---|---|---|---|
-| 121 | [Best Time to Buy and Sell Stock](Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md) | 🟢 Easy | Array | C++ | 2026-07-15 |
+| 121 | [Best Time to Buy and Sell Stock](Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md) | 🟢 Easy | Array | C++ | 2026-07-16 |
 | 1 | [Two Sum](Arrays/0001_Two_Sum/README.md) | 🟢 Easy | Array | C++ | 2026-07-14 |
 
 ---
@@ -74,6 +74,6 @@ See [`scripts/`](./scripts) for the implementation and
 
 <div align="center">
 
-_Generated automatically — last sync 2026-07-15 17:47 UTC_
+_Generated automatically — last sync 2026-07-16 18:40 UTC_
 
 </div>
