@@ -3,7 +3,7 @@
 🟢 **Difficulty:** Easy
 **Topics:** `Array`, `Hash Table`
 **Language:** C++
-**Date Solved:** 2026-07-14
+**Date Solved:** 2026-07-19
 **Status:** ✅ Accepted
 **Runtime:** 35 ms
 **Memory:** 14 MB
