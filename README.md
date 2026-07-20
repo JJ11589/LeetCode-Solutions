@@ -13,10 +13,10 @@
 ![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-0-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-2_days-orange?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-1_days-orange?style=for-the-badge)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Jashn_Jindal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jashn_Jindal/)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--19-lightgrey?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--07--20-lightgrey?style=for-the-badge)
 
 
 </div>
@@ -26,8 +26,8 @@
 - **Total Problems Solved:** 2
 - **Easy:** 2 &nbsp;|&nbsp; **Medium:** 0 &nbsp;|&nbsp; **Hard:** 0
 - **Primary Language:** C++ (others supported per-problem)
-- **Current Streak:** 2 days
-- **Last Updated:** 2026-07-19 18:27 UTC
+- **Current Streak:** 1 days
+- **Last Updated:** 2026-07-20 20:21 UTC
 
 ### Topic Distribution
 
@@ -47,7 +47,7 @@ Hash Table, Dynamic Programming
 
 ## 🕒 Recent Activity
 
-- **1. [Two Sum](Arrays/0001_Two_Sum/README.md)** (🟢 Easy) — 2026-07-19
+- **1. [Two Sum](Arrays/0001_Two_Sum/README.md)** (🟢 Easy) — 2026-07-20
 - **121. [Best Time to Buy and Sell Stock](Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md)** (🟢 Easy) — 2026-07-18
 
 ---
@@ -58,7 +58,7 @@ Hash Table, Dynamic Programming
 
 | # | Question | Difficulty | Topic | Language | Date Solved |
 |---|---|---|---|---|---|
-| 1 | [Two Sum](Arrays/0001_Two_Sum/README.md) | 🟢 Easy | Array | C++ | 2026-07-19 |
+| 1 | [Two Sum](Arrays/0001_Two_Sum/README.md) | 🟢 Easy | Array | C++ | 2026-07-20 |
 | 121 | [Best Time to Buy and Sell Stock](Arrays/0121_Best_Time_to_Buy_and_Sell_Stock/README.md) | 🟢 Easy | Array | C++ | 2026-07-18 |
 
 ---
@@ -74,6 +74,6 @@ See [`scripts/`](./scripts) for the implementation and
 
 <div align="center">
 
-_Generated automatically — last sync 2026-07-19 18:27 UTC_
+_Generated automatically — last sync 2026-07-20 20:21 UTC_
 
 </div>
