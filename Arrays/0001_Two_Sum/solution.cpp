@@ -1,20 +1,23 @@
 // 1. Two Sum
 // Difficulty: Easy
 // Link: https://leetcode.com/problems/two-sum/
-// Runtime: 36 ms | Memory: 14 MB
+// Runtime: 4 ms | Memory: 14.9 MB
 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
+        unordered_map<int, int> mp;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return {i,j};
-                } 
+        for (int i = 0; i < nums.size(); i++) {
+            int complement = target - nums[i];
+
+            if (mp.find(complement) != mp.end()) {
+                return {mp[complement], i};
             }
+
+            mp[nums[i]] = i;
         }
+
         return {};
     }
 };
